@@ -1,0 +1,51 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.mobolajioo.vensti.MainActivity" >
+    <item android:title="@string/rs" android:id="@+id/rs">
+        <menu>
+            <item android:title="@string/video" android:id="@+id/rs_vid">
+                <menu>
+                    <item android:title="@string/rcls" android:id="@+id/rs_vid_1"/>
+                </menu>
+            </item>
+            <item android:title="@string/pdf" android:id="@+id/rs_pdf">
+                <menu>
+                    <item android:title="@string/brs" android:id="@+id/rs_pdf_1"/>
+                </menu>
+            </item>
+        </menu>
+    </item>
+
+    <item android:id="@+id/ws" android:title="@string/ws">
+        <menu>
+            <item android:title="@string/video" android:id="@+id/ws_vid">
+                <menu>
+                    <item android:title="@string/fcs" android:id="@+id/ws_vid_1"/>
+                </menu>
+            </item>
+            <item android:title="@string/pdf" android:id="@+id/ws_pdf">
+                <menu>
+                    <item android:title="@string/bws" android:id="@+id/ws_pdf_1"/>
+                </menu>
+            </item>
+        </menu>
+    </item>
+
+    <item android:id="@+id/ms" android:title="@string/ms">
+        <menu>
+            <item android:title="@string/video" android:id="@+id/ms_vid">
+                <menu>
+                    <item android:title="@string/plg" android:id="@+id/ms_vid_1"/>
+                </menu>
+            </item>
+
+            <item android:title="@string/pdf" android:id="@+id/ms_pdf">
+                <menu>
+                    <item android:title="@string/exp_rul" android:id="@+id/ms_pdf_1"/>
+                    <item android:title="@string/exp_prc" android:id="@+id/ms_pdf_2"/>
+                </menu>
+            </item>
+        </menu>
+    </item>
+</menu>

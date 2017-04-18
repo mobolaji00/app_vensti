@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Vensti</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="vensti">Vensti</string>
+    <string name="education">Education</string>
+
+    <string name="video">Videos</string>
+    <string name="pdf">PDFs</string>
+    <string name="pdf_file_ext">.pdf</string>
+    <string name="video_file_ext">youtube</string>
+
+    <string name="bws">Basic Writing Strategies</string>
+    <string name="brs"> Basic Reading Strategies</string>
+    <string name="exp_rul">Rules of Exponents</string>
+    <string name="exp_prc">Practice With Exponents</string>
+
+    <string name="rcls">Reading Closely</string>
+    <string name="fcs">Focus Questions</string>
+    <string name="plg">How to Plug-In</string>
+
+    <string name="ws">Writing Strategies</string>
+    <string name="rs">Reading Strategies</string>
+    <string name="ms">Math Strategies</string>
+
+    <string name="ws_pdf_1_link">http://www.vensti.com/wp-content/uploads/2017/03/Writing-Strategies.pdf</string>
+    <string name="rs_pdf_1_link">http://www.vensti.com/wp-content/uploads/2017/03/Reading-Strategies.pdf</string>
+    <string name="ms_pdf_1_link">http://www.vensti.com/wp-content/uploads/2017/03/Rules-of-Exponents.pdf</string>
+    <string name="ms_pdf_2_link">http://www.vensti.com/wp-content/uploads/2017/03/Exponents-Practice.pdf</string>
+
+    <string name="ws_vid_1_link">https://www.youtube.com/watch?v=D6VOegyxnoE</string>
+    <string name="rs_vid_1_link">https://www.youtube.com/watch?v=AnLYvAvtWwo&amp;t=2s</string>
+    <string name="ms_vid_1_link">https://www.youtube.com/watch?v=BMGtsPjZBwc&amp;t=374s</string>
+
+    <string name="progress_title">Status</string>
+    <string name="progress_message">Downloading...</string>
+    <string name="show_dialog_title">Use Google Drive</string>
+    <string name="show_dialog_button_no">No</string>
+    <string name="show_dialog_button_yes">yes</string>
+    <string name="show_dialog_question">Open with Google Drive?</string>
+    <string name="chooser_title">Open With?</string>
+</resources>
